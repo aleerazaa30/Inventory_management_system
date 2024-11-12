@@ -74,5 +74,3 @@ Clone or download the repository to your local machine.
 Install required dependencies (Flask, SQLAlchemy, etc.) 
 
 Run the application with python main.py
-
-Access the app in your web browser at http://localhost:5000.
