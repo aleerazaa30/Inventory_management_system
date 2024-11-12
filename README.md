@@ -57,7 +57,9 @@ Copy code
 /inventory_management_system
 │
 ├── main.py               # Main application logic and route management.
+
 ├── auth.py               # User authentication, login, registration, and token management.
+
 ├── inventory.py          # Inventory management (products, stock, CRUD operations).
 
 Future Enhancements:
@@ -70,7 +72,4 @@ Database Integration: Integration with a proper relational database like Postgre
 How to Run the Project:
 
 Clone or download the repository to your local machine.
-
-Install required dependencies (Flask, SQLAlchemy, etc.) 
-
 Run the application with python main.py
